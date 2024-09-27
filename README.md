@@ -13,5 +13,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </h4>
 autores:
 RAFAEL STOCCO VIEIRA
-ANDRE BOTELHO BARRETO
-LORENZO GASPARINI DE MORAES BARROS
